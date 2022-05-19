@@ -1,0 +1,108 @@
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.headerpic {
+  width: 1000Px;
+  display: block;
+}
+
+.searchbox {
+  
+}
+
+.usericon {
+  width: 40px;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 50%;
+  object-position: left;
+  margin-left: 1000px;
+}
+
+.TSIcon {
+  width: 70px;
+  border-radius: 70% 70% 70% 70%;
+  vertical-align: middle;
+
+}
+
+.ChannelName {
+  font-size: x-large;
+  display: inline;
+  vertical-align:middle;
+}
+
+.Subscribe-button {
+  border: none;
+  background-color: rgb(248, 242, 242);
+  object-position: left;
+  margin-left: 500px;
+  margin-right: 0px;
+  padding: 10px 10px 10px 10px;
+  vertical-align: middle;
+}
+
+.subsIcon {
+  width: 25Px;
+  margin-left: 0px;
+  vertical-align: middle;
+}
+
+.video-template-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 20px;
+}
+
+.video-template {
+  width: 400px;
+}
+
+.thumb1 {
+  width: 100%;
+}
+
+.video-info-grid {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.videoIcon {
+  width: 40px;
+  border-radius: 50px;
+}
+
+.video-Name {
+  font-weight: 500;
+  font-size: 16px;
+  margin-top: 0px;
+  line-height: 20px;
+  margin-bottom: 5px;
+}
+
+.Video-author {
+  color: rgb(96, 96, 96);
+  font-weight: 500;
+  font-size: 12px;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+
+.video-stats {
+  color: rgb(96, 96, 96);
+  font-weight: 300;
+  font-size: 10px;
+  margin-top: 1px;
+}
+
+
+.VideoInfo {
+  margin-left: 5px;
+  display: inline-block;
+}
+
+
